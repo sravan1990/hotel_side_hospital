@@ -1,5 +1,5 @@
 ## Project Objective
-&nbsp;&nbsp;  To create an automated provisioned infrastructure using Terraform, EKS cluster, EC2 instances, and Jenkins server
+&nbsp;&nbsp;  To create an automated provisioned infrastructure using Terraform, EKS cluster, EC2 instances, and Jenkins server for Hotel-Side Hospital
 
 ## Tools used
   - Terraform
